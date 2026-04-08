@@ -4,4 +4,4 @@ A framework for energy-based detection and tracking of deformable linear objects
 
 ## Demo
 
-<video src="asset/slinky_demo.mp4" controls width="100%"></video>
+<video src="asset/slinky_demo_h264.mp4" controls width="100%"></video>
